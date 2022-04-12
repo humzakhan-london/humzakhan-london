@@ -7,7 +7,7 @@
 - **Visual Analytics** - Analysing UK Road Traffic Data using Python Folium and Tableau.
 - **Principals of Data Science** - Assessing loan applications using credit data applying Random Forest Classifier Models.
 - **Machine Learning** - Classification approach on marketing campaign on bank data comparing Decision Trees and Naive Bayes Models.
-- **Big Data** - .
+- **Big Data** - Google Cloud Compute Engines.
 
 
 <!---
